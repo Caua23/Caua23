@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Full-Stack Developer<br><br>📍 Brazil<br><br>📚 Studying programming for almost 2 years</p>
+<p align="left">💻 Full-Stack Developer<br><br>📍 Brazil<br><br>📚 Studying programming for 2 years</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Programador Full-Stack<br><br>📍 Brasil<br><br>📚 Estudando programação há quase 2 anos</p>
+<p align="left">💻 Programador Full-Stack<br><br>📍 Brasil<br><br>📚 Estudando programação há 2 anos</p>
 
 ###
 
