@@ -14,7 +14,7 @@
 ###
 
   <a href="mailto:cauavargas1849@gmail.com" target="_blank">
-    [![My Skills](https://skillicons.dev/icons?i=email)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
  
 </div>
@@ -26,7 +26,9 @@
 ###
 
 <div align="left">
-[![My Skills](https://skillicons.dev/icons?i=java,spring,bash,mysql,nodejs,typescript,dart,flutter,javascript,html,css,react,tailwind,kali,linux,git,github,vite,arduino&perline=3)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,nodejs,dart,flutter,tailwind,kali,linux,bash,arduino,typescript,javascript,html,css,git,github,maven,vite,vscode,idea&perline=9" />
+
+
 </div>
 
 ###
