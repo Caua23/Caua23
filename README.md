@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,nodejs,dart,flutter,tailwind,arduino,typescript,javascript,html,css,git,discord,bots,github,kali,linux,bash,maven,vite,vscode,idea&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nestjs,nodejs,dart,flutter,tailwind,mysql,arduino,typescript,javascript,html,css,git,bots,github,kali,linux,aws,maven,vite,vscode,idea&perline=8" />
 
 
 </div>
