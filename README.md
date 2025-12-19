@@ -40,7 +40,7 @@ Sou uma pessoa **motivada, curiosa e comprometida**, com grande disposição par
 ## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nestjs,nodejs,typescript,tailwind,mysql,mongodb,aws,git,github,maven,vite,vscode,idea&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nestjs,nodejs,typescript,tailwind,mysql,mongodb,aws,git,github,maven,vite,vscode,idea,docker&perline=9" />
 </div>
 
 ---
