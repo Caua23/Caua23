@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
-Olá! Meu nome é **Cauã Vargas**, tenho **18 anos** e sou um **Desenvolvedor Back-end Júnior**, apaixonado por tecnologia e em constante evolução.
+Olá! Meu nome é **Cauã Vargas**, tenho **18 anos** e sou um **Desenvolvedor Back-end**, apaixonado por tecnologia e em constante evolução.
 
 Iniciei minha jornada na programação em **2022** e, desde então, venho me especializando em **desenvolvimento web**, **serviços back-end** e **soluções escaláveis**.  
 Sou formado como **Técnico em Informática para Internet** pela **QI Faculdade & Escola Técnica**, onde obtive as **melhores notas da turma**.
